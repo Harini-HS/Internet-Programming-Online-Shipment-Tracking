@@ -1,0 +1,50 @@
+body{
+    height: 100%;
+    width: 100%;
+    background-image: url("./shipment4.png");
+    background-size: cover;
+
+}
+
+img {
+
+    height: 100%;
+    width: 100%;
+    z-index: -1;
+    position:absolute;
+    
+}
+h1 {
+    
+    text-align: center;
+    color: whitesmoke;
+    position: relative;
+    
+    
+}
+h2{
+    text-align: center;
+    color: lightblue;
+}
+
+.box{
+    background-color: mintcream;
+    opacity: 0.5;
+    margin-top: 100px;
+    margin-left: 150px;
+    height: 450px;
+    width: 400px;
+    border: 5px solid black;
+    font-size: 25px;
+    border-radius: 25px;
+    padding-left: 50px;
+}
+
+.btn {
+    background-color: #0074D9;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 25px;
+    font-size: 25px;
+}
